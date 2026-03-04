@@ -1,47 +1,71 @@
-# Database-problem-solving
-# 📊 LeetCode SQL Solutions
+✅ Day 1 – SQL Practice
+🔥 Problems Solved
+Problem No	Title	Difficulty
+175	Combine Two Tables	Easy
+176	Second Highest Salary	Medium
+177	Nth Highest Salary	Medium
+178	Rank Scores	Medium
+180	Consecutive Numbers	Medium
+🧠 Concepts Covered
 
-This repository contains my solutions to SQL problems from LeetCode.
+INNER JOIN
 
-## 🔥 Problems Solved Today
+Subqueries
 
-| Problem No | Title | Difficulty |
-|------------|--------|------------|
-| 175 | Combine Two Tables | Easy |
-| 176 | Second Highest Salary | Medium |
-| 177 | Nth Highest Salary | Medium |
-| 178 | Rank Scores | Medium |
-| 180 | Consecutive Numbers | Medium |
+LIMIT & OFFSET
 
-## 🧠 Concepts Covered
+Window Functions
 
-- JOIN
-- Subqueries
-- LIMIT & OFFSET
-- Window Functions
-- DENSE_RANK()
-- LAG()
-- Self Joins
+DENSE_RANK()
 
----
+LAG()
+
+Self Join
+
+🎯 Key Learning
+
+Understanding ranking functions
+
+Difference between RANK() and DENSE_RANK()
+
+Solving problems using both subqueries and window functions
 
 🚀 Consistency > Motivation
-## ✅ Today's Progress
 
-![Progress Screenshot]<img width="1873" height="961" alt="database1" src="https://github.com/user-attachments/assets/6e3b7788-be75-43d2-aacc-3dafe864f2a0" />
+✅ Day 2 – SQL Practice
+🔥 Problems Solved
+Problem No	Title	Difficulty
+181	Employees Earning More Than Their Managers	Easy
+182	Duplicate Emails	Easy
+183	Customers Who Never Order	Easy
+184	Department Highest Salary	Medium
+185	Department Top Three Salaries	Hard
+🧠 Concepts Covered
 
-## Day 3 - SQL Practice
+Self Join
 
-Solved:
-- 181 - Employees Earning More Than Their Managers
-- 182 - Duplicate Emails
-- 183 - Customers Who Never Order
-- 184 - Department Highest Salary
-- 185 - Department Top Three Salaries (Hard)
+LEFT JOIN (Anti Join Pattern)
 
-Concepts Covered:
-- Self Join
-- LEFT JOIN
-- GROUP BY + HAVING
-- Correlated Subquery
-- DENSE_RANK()
+GROUP BY + HAVING
+
+Correlated Subqueries
+
+DENSE_RANK()
+
+Top-N per Group Logic
+
+🎯 Key Learning
+
+Writing self joins correctly
+
+Handling NULL filtering in LEFT JOIN
+
+Solving Top-N per department problems
+
+Understanding difference between:
+
+ROW_NUMBER()
+
+RANK()
+
+DENSE_RANK()
