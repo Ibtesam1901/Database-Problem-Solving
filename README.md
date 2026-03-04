@@ -1,4 +1,4 @@
-# database-problem-solving
+# Database-problem-solving
 # 📊 LeetCode SQL Solutions
 
 This repository contains my solutions to SQL problems from LeetCode.
