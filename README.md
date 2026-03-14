@@ -16,9 +16,11 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | Day 5 | 5 |
 | Day 6 | 5 |
 | Day 7 | 5 |
-| **Day 8** | **5** |
+| Day 8 | 5 |
+| Day 9 | 6 |
+| **Day 10** | **5** |
 
-✅ **Total Problems Solved: 40**
+✅ **Total Problems Solved: 51**
 
 ---
 
@@ -35,7 +37,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 180 | Consecutive Numbers | Medium |
 
 ### 🧠 Concepts Covered
-
 - INNER JOIN  
 - Subqueries  
 - LIMIT & OFFSET  
@@ -59,7 +60,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 185 | Department Top Three Salaries | Hard |
 
 ### 🧠 Concepts Covered
-
 - Self Join  
 - LEFT JOIN (Anti Join Pattern)  
 - GROUP BY + HAVING  
@@ -82,7 +82,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 534 | Game Play Analysis III | Medium |
 
 ### 🧠 Concepts Covered
-
 - DELETE with Self Join  
 - Date Functions  
 - Aggregation  
@@ -104,7 +103,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 586 | Customer Placing the Largest Number of Orders | Easy |
 
 ### 🧠 Concepts Covered
-
 - Self Join  
 - LEFT JOIN  
 - Subqueries  
@@ -127,7 +125,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 607 | Sales Person | Easy |
 
 ### 🧠 Concepts Covered
-
 - Filtering with `WHERE`  
 - GROUP BY + HAVING  
 - Self Join  
@@ -150,7 +147,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 626 | Exchange Seats | Medium |
 
 ### 🧠 Concepts Covered
-
 - CASE Statements  
 - Conditional Logic  
 - Aggregation  
@@ -164,7 +160,7 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 ## 🔥 Problems Solved
 
 | Problem No | Title | Difficulty |
-|------------|----------------------------------------------|------------|
+|------------|------|------------|
 | 627 | Swap Sex of Employees | Easy |
 | 1045 | Customers Who Bought All Products | Medium |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy |
@@ -172,7 +168,6 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 1070 | Product Sales Analysis III | Medium |
 
 ### 🧠 Concepts Covered
-
 - SQL `UPDATE`  
 - `GROUP BY` and `HAVING`  
 - Aggregate Functions (`COUNT`, `MIN`)  
@@ -187,7 +182,7 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 ## 🔥 Problems Solved
 
 | Problem No | Title | Difficulty |
-|------------|-----------------------------------------|------------|
+|------------|------|------------|
 | 1075 | Project Employees I | Easy |
 | 1084 | Sales Analysis III | Easy |
 | 1141 | User Activity for the Past 30 Days I | Easy |
@@ -195,13 +190,57 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | 1158 | Market Analysis I | Medium |
 
 ### 🧠 Concepts Practiced
-
 - SQL Joins  
 - Aggregation Functions (`COUNT`, `AVG`)  
 - `GROUP BY`  
 - Date Filtering  
 - Conditional Logic  
 - Distinct Records  
+
+---
+
+# ✅ Day 9 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1164 | Product Price at a Given Date | Medium |
+| 1174 | Immediate Food Delivery II | Medium |
+| 1179 | Reformat Department Table | Easy |
+| 1193 | Monthly Transactions I | Medium |
+| 1204 | Last Person to Fit in the Bus | Medium |
+| 1211 | Queries Quality and Percentage | Easy |
+
+### 🧠 Concepts Practiced
+- Window Functions (`SUM() OVER`)  
+- Conditional Aggregation  
+- Date Formatting  
+- Pivot Tables  
+- Percentage Calculations  
+- Running Totals  
+
+---
+
+# ✅ Day 10 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1251 | Average Selling Price | Easy |
+| 1280 | Students and Examinations | Easy |
+| 1321 | Restaurant Growth | Medium |
+| 1327 | List the Products Ordered in a Period | Easy |
+| 1341 | Movie Rating | Medium |
+
+### 🛠️ Concepts Practiced
+- JOIN (`INNER JOIN`)  
+- `GROUP BY`  
+- `HAVING`  
+- Aggregate Functions (`SUM`, `AVG`, `COUNT`)  
+- Date Filtering  
+- Sorting & Tie Breaking  
 
 ---
 
@@ -212,34 +251,7 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 🚀 Building strong **data engineering fundamentals**
 
 ---
-✅ Day 9 – SQL Practice
-🔥 Problems Solved
-Problem No	Title	Difficulty
-1164	Product Price at a Given Date	Medium
-1174	Immediate Food Delivery II	Medium
-1179	Reformat Department Table	Easy
-1204	Last Person to Fit in the Bus	Medium
-1193	Monthly Transactions I	Medium
-1211	Queries Quality and Percentage	Easy
-📊 Progress Update
-Difficulty	Problems Solved
-Easy	25
-Medium	18
-Hard	3
-Total	46
-🚀 What I Practiced Today
 
-Window Functions (SUM() OVER)
-
-Conditional Aggregation
-
-Date Formatting
-
-Pivot Tables
-
-Percentage Calculations
-
-Running Totals
 # 🎯 Goal
 
 Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to continuously improve:
