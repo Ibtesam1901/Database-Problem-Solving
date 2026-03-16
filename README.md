@@ -18,9 +18,13 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | Day 7 | 5 |
 | Day 8 | 5 |
 | Day 9 | 6 |
-| **Day 10** | **5** |
+| Day 10 | 5 |
+| Day 11 | 4 |
+| Day 12 | 5 |
 
-✅ **Total Problems Solved: 51**
+---
+
+✅ **Total Problems Solved: 60**
 
 ---
 
@@ -242,6 +246,45 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 - Date Filtering  
 - Sorting & Tie Breaking  
 
+---
+# ✅ Day 11 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1378 | Replace Employee ID With The Unique Identifier | Easy |
+| 1393 | Capital Gain/Loss | Medium |
+| 1407 | Top Travellers | Easy |
+| 1484 | Group Sold Products By The Date | Easy |
+
+### 🧠 Concepts Practiced
+- LEFT JOIN  
+- GROUP BY  
+- Conditional Aggregation  
+- `SUM()` with CASE  
+- `GROUP_CONCAT()`  
+- Sorting Results
+# ✅ Day 12 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1527 | Patients With a Condition | Easy |
+| 1581 | Customer Who Visited but Did Not Make Transactions | Easy |
+| 1587 | Bank Account Summary II | Easy |
+| 1633 | Percentage of Users Attended a Contest | Easy |
+| 1661 | Average Time of Process per Machine | Easy |
+
+### 🧠 Concepts Practiced
+- Pattern Matching with `LIKE`  
+- `LEFT JOIN` with `NULL` filtering  
+- Aggregation using `SUM()` and `AVG()`  
+- Percentage Calculation  
+- Self Join  
+- `GROUP BY` and `HAVING`  
+- Rounding numeric results using `ROUND()`  
 ---
 
 # ⭐ Consistency Matters
