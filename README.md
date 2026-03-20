@@ -1,30 +1,36 @@
 # 📊 LeetCode SQL Solutions
 
-This repository contains my solutions to **SQL problems from LeetCode**.  
-I solve SQL problems daily to strengthen my **database concepts, query optimization, and analytical thinking**.
+## 🧑‍💻 About This Repository
 
+This repository documents my **daily SQL problem-solving journey on LeetCode**, focusing on:
+
+- Writing optimized SQL queries  
+- Mastering database concepts  
+- Preparing for technical interviews  
+- Building strong data analysis skills  
+
+📌 I consistently solve **5+ problems daily** and track my progress here.
 ---
 
-## 🚀 Progress Overview
+## 🚀 Overall Progress
 
 | Category | Count |
 |----------|------|
-| 🟢 Easy  | 41   |
+| 🟢 Easy  | 46   |
 | 🟡 Medium| 21   |
 | 🔴 Hard  | 3    |
-| ✅ Total | 65  |
+| ✅ Total | 70   |
 
 ---
 
 ## 📈 Stats
 
-- 📌 Total Submissions: 73  
-- 🎯 Acceptance Rate: 93.2%  
+- 📌 Total Submissions: 78  
+- 🎯 Acceptance Rate: 93.6%  
 - ⚡ Consistency: Daily Practice  
-
 ---
 
-# 🚀 Progress Overview
+# 📅 Daily Progress
 
 | Day | Problems Solved |
 |----|----------------|
@@ -44,7 +50,7 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 
 ---
 
-✅ **Total Problems Solved: 60**
+✅ Total Problems Solved: 70
 
 ---
 
@@ -333,13 +339,25 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 - Rounding values using `ROUND()`  
 
 ---
+# ✅ Day 14 – SQL Practice
 
-# ⭐ Consistency Matters
+## 🔥 Problems Solved
 
-📅 Solving **SQL problems daily**  
-📊 Improving **database querying skills**  
-🚀 Building strong **data engineering fundamentals**
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1873 | Calculate Special Bonus | Easy |
+| 1795 | Rearrange Products Table | Easy |
+| 1789 | Primary Department for Each Employee | Easy |
+| 1757 | Recyclable and Low Fat Products | Easy |
+| 1741 | Find Total Time Spent by Each Employee | Easy |
 
+### 🧠 Concepts Practiced
+- Conditional logic using `CASE WHEN`  
+- Data transformation (**UNPIVOT / UNION ALL**)  
+- `GROUP BY` with Aggregation  
+- Handling edge cases using `HAVING`  
+- Filtering using `WHERE`  
+- Aggregate functions like `SUM()`
 ---
 
 # 🎯 Goal
